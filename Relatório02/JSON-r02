@@ -1,0 +1,64 @@
+{
+    "aulas": [
+        {
+            "professor": {
+                "nome": "Carlos Ynoguti"
+            },
+            "assunto": "Algoritmos",
+            "alunos": [
+                {
+                    "nome": "José"
+                },
+                {
+                    "nome": "João"
+                },
+                {
+                    "nome": "Henrique"
+                },
+                {
+                    "nome": "André"
+                }
+            ]
+        },
+        {
+            "professor": {
+                "nome": "Daniela Barude"
+            },
+            "assunto": "Física",
+            "alunos": [
+                {
+                    "nome": "Marcos"
+                },
+                {
+                    "nome": "Lucas"
+                },
+                {
+                    "nome": "Felipe"
+                },
+                {
+                    "nome": "Paulo"
+                }
+            ]
+        },
+        {
+            "professor": {
+                "nome": "Carlos Francisco"
+            },
+            "assunto": "Circuitos",
+            "alunos": [
+                {
+                    "nome": "Bruno"
+                },
+                {
+                    "nome": "Miguel"
+                },
+                {
+                    "nome": "Luana"
+                },
+                {
+                    "nome": "Clara"
+                }
+            ]
+        }
+    ]
+}
