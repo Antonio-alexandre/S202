@@ -1,0 +1,8 @@
+{
+    "query": "pokemonsByTypes",
+    "types": [
+        "Water",
+        "Electric"
+    ],
+    "result": []
+}

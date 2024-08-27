@@ -1,0 +1,222 @@
+{
+    "query": "pokemonsByHeight",
+    "height": "0.71 m",
+    "result": [
+        {
+            "_id": {
+                "$oid": "66cd3a4a9ca5880b9bc76a34"
+            },
+            "id": 1,
+            "num": "001",
+            "name": "Bulbasaur",
+            "img": "http://www.serebii.net/pokemongo/pokemon/001.png",
+            "type": [
+                "Grass",
+                "Poison"
+            ],
+            "height": "0.71 m",
+            "weight": "6.9 kg",
+            "candy": "Bulbasaur Candy",
+            "candy_count": 25,
+            "egg": "2 km",
+            "spawn_chance": 0.69,
+            "avg_spawns": 69,
+            "spawn_time": "20:00",
+            "multipliers": [
+                1.58
+            ],
+            "weaknesses": [
+                "Fire",
+                "Ice",
+                "Flying",
+                "Psychic"
+            ],
+            "next_evolution": [
+                {
+                    "num": "002",
+                    "name": "Ivysaur"
+                },
+                {
+                    "num": "003",
+                    "name": "Venusaur"
+                }
+            ]
+        },
+        {
+            "_id": {
+                "$oid": "66cd3a4a9ca5880b9bc76a3e"
+            },
+            "id": 11,
+            "num": "011",
+            "name": "Metapod",
+            "img": "http://www.serebii.net/pokemongo/pokemon/011.png",
+            "type": [
+                "Bug"
+            ],
+            "height": "0.71 m",
+            "weight": "9.9 kg",
+            "candy": "Caterpie Candy",
+            "candy_count": 50,
+            "egg": "Not in Eggs",
+            "spawn_chance": 0.187,
+            "avg_spawns": 18.7,
+            "spawn_time": "02:11",
+            "multipliers": [
+                3.55,
+                3.79
+            ],
+            "weaknesses": [
+                "Fire",
+                "Flying",
+                "Rock"
+            ],
+            "prev_evolution": [
+                {
+                    "num": "010",
+                    "name": "Caterpie"
+                }
+            ],
+            "next_evolution": [
+                {
+                    "num": "012",
+                    "name": "Butterfree"
+                }
+            ]
+        },
+        {
+            "_id": {
+                "$oid": "66cd3a4a9ca5880b9bc76a47"
+            },
+            "id": 20,
+            "num": "020",
+            "name": "Raticate",
+            "img": "http://www.serebii.net/pokemongo/pokemon/020.png",
+            "type": [
+                "Normal"
+            ],
+            "height": "0.71 m",
+            "weight": "18.5 kg",
+            "candy": "Rattata Candy",
+            "egg": "Not in Eggs",
+            "spawn_chance": 0.41,
+            "avg_spawns": 41,
+            "spawn_time": "01:56",
+            "multipliers": null,
+            "weaknesses": [
+                "Fighting"
+            ],
+            "prev_evolution": [
+                {
+                    "num": "019",
+                    "name": "Rattata"
+                }
+            ]
+        },
+        {
+            "_id": {
+                "$oid": "66cd3a4a9ca5880b9bc76a66"
+            },
+            "id": 51,
+            "num": "051",
+            "name": "Dugtrio",
+            "img": "http://www.serebii.net/pokemongo/pokemon/051.png",
+            "type": [
+                "Ground"
+            ],
+            "height": "0.71 m",
+            "weight": "33.3 kg",
+            "candy": "Dugtrio",
+            "egg": "Not in Eggs",
+            "spawn_chance": 0.014,
+            "avg_spawns": 1.4,
+            "spawn_time": "12:37",
+            "multipliers": null,
+            "weaknesses": [
+                "Water",
+                "Grass",
+                "Ice"
+            ],
+            "prev_evolution": [
+                {
+                    "num": "050",
+                    "name": "Diglett"
+                }
+            ]
+        },
+        {
+            "_id": {
+                "$oid": "66cd3a4a9ca5880b9bc76a6d"
+            },
+            "id": 58,
+            "num": "058",
+            "name": "Growlithe",
+            "img": "http://www.serebii.net/pokemongo/pokemon/058.png",
+            "type": [
+                "Fire"
+            ],
+            "height": "0.71 m",
+            "weight": "19.0 kg",
+            "candy": "Growlithe Candy",
+            "candy_count": 50,
+            "egg": "5 km",
+            "spawn_chance": 0.92,
+            "avg_spawns": 92,
+            "spawn_time": "03:57",
+            "multipliers": [
+                2.31,
+                2.36
+            ],
+            "weaknesses": [
+                "Water",
+                "Ground",
+                "Rock"
+            ],
+            "next_evolution": [
+                {
+                    "num": "059",
+                    "name": "Arcanine"
+                }
+            ]
+        },
+        {
+            "_id": {
+                "$oid": "66cd3a4a9ca5880b9bc76a78"
+            },
+            "id": 69,
+            "num": "069",
+            "name": "Bellsprout",
+            "img": "http://www.serebii.net/pokemongo/pokemon/069.png",
+            "type": [
+                "Grass",
+                "Poison"
+            ],
+            "height": "0.71 m",
+            "weight": "4.0 kg",
+            "candy": "Bellsprout Candy",
+            "candy_count": 25,
+            "egg": "5 km",
+            "spawn_chance": 1.15,
+            "avg_spawns": 115,
+            "spawn_time": "04:10",
+            "multipliers": [
+                1.57
+            ],
+            "weaknesses": [
+                "Fire",
+                "Ice",
+                "Flying",
+                "Psychic"
+            ],
+            "next_evolution": [
+                {
+                    "num": "070",
+                    "name": "Weepinbell"
+                },
+                {
+                    "num": "071",
+                    "name": "Victreebel"
+                }
+            ]
+        }
+    ]
+}

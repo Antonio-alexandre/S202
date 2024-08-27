@@ -1,0 +1,92 @@
+{
+    "query": "pokemonsByTypesThatHaveEvolutions",
+    "types": [
+        "Dark",
+        "Ghost"
+    ],
+    "result": [
+        {
+            "_id": {
+                "$oid": "66cd3a4a9ca5880b9bc76a8f"
+            },
+            "id": 92,
+            "num": "092",
+            "name": "Gastly",
+            "img": "http://www.serebii.net/pokemongo/pokemon/092.png",
+            "type": [
+                "Ghost",
+                "Poison"
+            ],
+            "height": "1.30 m",
+            "weight": "0.1 kg",
+            "candy": "Gastly Candy",
+            "candy_count": 25,
+            "egg": "5 km",
+            "spawn_chance": 0.79,
+            "avg_spawns": 79,
+            "spawn_time": "04:21",
+            "multipliers": [
+                1.78
+            ],
+            "weaknesses": [
+                "Ground",
+                "Psychic",
+                "Ghost",
+                "Dark"
+            ],
+            "next_evolution": [
+                {
+                    "num": "093",
+                    "name": "Haunter"
+                },
+                {
+                    "num": "094",
+                    "name": "Gengar"
+                }
+            ]
+        },
+        {
+            "_id": {
+                "$oid": "66cd3a4a9ca5880b9bc76a90"
+            },
+            "id": 93,
+            "num": "093",
+            "name": "Haunter",
+            "img": "http://www.serebii.net/pokemongo/pokemon/093.png",
+            "type": [
+                "Ghost",
+                "Poison"
+            ],
+            "height": "1.60 m",
+            "weight": "0.1 kg",
+            "candy": "Gastly Candy",
+            "candy_count": 100,
+            "egg": "Not in Eggs",
+            "spawn_chance": 0.052,
+            "avg_spawns": 5.2,
+            "spawn_time": "00:10",
+            "multipliers": [
+                1.56,
+                1.8
+            ],
+            "weaknesses": [
+                "Ground",
+                "Psychic",
+                "Ghost",
+                "Dark"
+            ],
+            "prev_evolution": [
+                {
+                    "num": "092",
+                    "name": "Gastly"
+                }
+            ],
+            "next_evolution": [
+                {
+                    "num": "094",
+                    "name": "Gengar"
+                }
+            ]
+        }
+    ]
+}

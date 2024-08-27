@@ -1,0 +1,83 @@
+{
+    "query": "pokemonsByWeight",
+    "weight": "10.0 kg",
+    "result": [
+        {
+            "_id": {
+                "$oid": "66cd3a4a9ca5880b9bc76a41"
+            },
+            "id": 14,
+            "num": "014",
+            "name": "Kakuna",
+            "img": "http://www.serebii.net/pokemongo/pokemon/014.png",
+            "type": [
+                "Bug",
+                "Poison"
+            ],
+            "height": "0.61 m",
+            "weight": "10.0 kg",
+            "candy": "Weedle Candy",
+            "candy_count": 50,
+            "egg": "Not in Eggs",
+            "spawn_chance": 0.44,
+            "avg_spawns": 44,
+            "spawn_time": "02:30",
+            "multipliers": [
+                3.01,
+                3.41
+            ],
+            "weaknesses": [
+                "Fire",
+                "Flying",
+                "Psychic",
+                "Rock"
+            ],
+            "prev_evolution": [
+                {
+                    "num": "013",
+                    "name": "Weedle"
+                }
+            ],
+            "next_evolution": [
+                {
+                    "num": "015",
+                    "name": "Beedrill"
+                }
+            ]
+        },
+        {
+            "_id": {
+                "$oid": "66cd3a4a9ca5880b9bc76ab4"
+            },
+            "id": 129,
+            "num": "129",
+            "name": "Magikarp",
+            "img": "http://www.serebii.net/pokemongo/pokemon/129.png",
+            "type": [
+                "Water"
+            ],
+            "height": "0.89 m",
+            "weight": "10.0 kg",
+            "candy": "Magikarp Candy",
+            "candy_count": 400,
+            "egg": "2 km",
+            "spawn_chance": 4.78,
+            "avg_spawns": 478,
+            "spawn_time": "14:26",
+            "multipliers": [
+                10.1,
+                11.8
+            ],
+            "weaknesses": [
+                "Electric",
+                "Grass"
+            ],
+            "next_evolution": [
+                {
+                    "num": "130",
+                    "name": "Gyarados"
+                }
+            ]
+        }
+    ]
+}
