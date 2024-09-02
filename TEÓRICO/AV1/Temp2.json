@@ -1,0 +1,6 @@
+{
+    "nomeSensor": "Temp2",
+    "valorSensor": 0,
+    "unidadeMedida": "C°",
+    "sensorAlarmado": false
+}
